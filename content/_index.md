@@ -1,6 +1,6 @@
 ---
-title: "Contentrain: a Hugo Theme"
-description: "The last theme you'll ever need. Maybe."
+title: "Contentrain: a Hugo Theme Rabindra"
+description: "The last theme you'll ever need. Maybe. Rabindra"
 slug: "_index"
 ID: "ee1f3f5f-fd44-4a0d-bdeb-06356db1f469"
 cascade:
@@ -8,7 +8,9 @@ cascade:
   featuredImage: "static/1656503175882_gohugo-default-sample-hero-image.jpg"
   createdAt: 1656503178078
 createdAt: 1656503090775
-updatedAt: 1656503104719
+updatedAt: 1666807769949
 
 ---
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+My name is Rabindra this is from content section My name is Rabindra this is from content section My name is Rabindra this is from content section My name is Rabindra this is from content section My name is Rabindra this is from content section My name is Rabindra this is from content section
+
+My name is Rabindra this is from content section My name is Rabindra this is from content section My name is Rabindra this is from content section My name is Rabindra this is from content section My name is Rabindra this is from content section My name is Rabindra this is from content section
